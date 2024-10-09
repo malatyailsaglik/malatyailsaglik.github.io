@@ -20,8 +20,8 @@
     </style>
 </head>
 <body>
-    <a href="https://malatyaism.saglik.gov.tr/TR-323715/belki-bir-gun-demebugun-gel-keteme.html">
-        <img src="https://dosyaism.saglik.gov.tr/Resim/533243/0/taramanizi-yaptirinjpg.png" alt="Yönlendirme Fotoğrafı">
+    <a href="https://gideceginyer.com">
+        <img src="yonlendirme.png" alt="Yönlendirme Fotoğrafı">
     </a>
 </body>
 </html>
