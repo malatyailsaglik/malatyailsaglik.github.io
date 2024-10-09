@@ -20,7 +20,7 @@
     </style>
 </head>
 <body>
-    <a href="https://gideceginyer.com">
+    <a href="https://malatyaism.saglik.gov.tr/TR-323715/belki-bir-gun-demebugun-gel-keteme.html">
         <img src="yonlendirme.png" alt="Yönlendirme Fotoğrafı">
     </a>
 </body>
