@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yönlendirme Sitesi</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://malatyaism.saglik.gov.tr/TR-323715/belki-bir-gun-demebugun-gel-keteme.html">
+        <img src="https://dosyaism.saglik.gov.tr/Resim/533243/0/taramanizi-yaptirinjpg.png" alt="Yönlendirme Fotoğrafı">
+    </a>
+</body>
+</html>
