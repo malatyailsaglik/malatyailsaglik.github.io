@@ -22,7 +22,8 @@
 </head>
 <body>
     <a href="https://malatyaism.saglik.gov.tr/TR-323715/belki-bir-gun-demebugun-gel-keteme.html" target="_blank">
-        <img src="https://dosyaism.saglik.gov.tr/Resim/533243/0/taramanizi-yaptirinjpg.png" alt="Taramanızı Yaptırın">
+        <img src="yonlendirme.png" alt="Taramanızı Yaptırın">
+
     </a>
 </body>
 </html>
